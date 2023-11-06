@@ -1,0 +1,24 @@
+
+
+PROJENİN ADI: HEPSİ BURADA AUTOMATİON WEB TESTİNG
+
+
+PROJENİN TANIMI :"CART LİMİT" adlı senaryo, kullanıcının bir ürünü sepete eklerken
+maksimum ürün miktarını test ediyor. Özellikle, kullanıcının 501 adet ürünü sepete eklemeye çalışması
+ve bu işlemin başarısız olup olmadığı test ediliyor.
+
+"TRANSFER İNFORMATİON" adlı senaryo, kullanıcının bir web sitesine gitmesi, sayfanın en altına kaydırması
+ve kategori bilgilerini bir Excel dosyasına aktarması amacıyla oluşturuldu
+
+
+
+KULLANILAN TEKNOLOJİLER:
+
+CUCUMBER BDD VE GHERKİN LANGUAGE-- SENARYO YÖNETİMİ VE TEST RAPORLAMA
+SELENİUM WEBDRİVER -- WEB OTOMASYON TESTLERİNİN OLUŞTURULMASI
+APACHE POI -- EXCEL VERİLERİNİN OKUMA VE YAZMA İŞLEMLERİ
+TESTNG -XML.FİLE -- TEST SENARYOLARININ PARALLEL OLARAK YÖNETİLMESİ
+JAVA -- PROJEDE JAVA OOP PRENSİBİNE UYGUN KODLAMALAR YAPILDI
+EXTENT REPORTS -- RAPORLAMA ARACI VE TEST SONUÇLARININ GÖRSELLEŞTİRİLMESİ
+HOOKS CLASS -- TEST SENARYOLARININ OTOMATİK BAŞLANGICI ,KAPANIŞI BAŞARILI VE BAŞARISIZ
+DURUMLARDA EKRAN GÖRÜNTÜSÜ ALINMASI,HATANIN TESPİTİ,RAPORLANMASI GİBİ İŞLEMLER İÇİN HAZIRLANDI

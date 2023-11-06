@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+
+<suite name="MySuit"
+    parallel="tests" thread-count="2">
+
+    <test name="HepsiBuradaTest1">
+        <parameter name="browserTipi" value="chrome"></parameter>
+
+        <classes>
+            <class name="Runners.ParallelTesting"></class>
+        </classes>
+
+    </test>
+
+    <test name="HepsiBuradaTest2">
+        <parameter name="browserTipi" value="firefox"></parameter>
+
+        <classes>
+            <class name="Runners.ParallelTesting"></class>
+        </classes>
+
+    </test>
+
+
+
+
+</suite>
